@@ -57,12 +57,3 @@ Não há necessidade de instalação, clique em [Bikcraft](https://brseghese.git
 <h3 id="status">📌 Status do projeto</h3>
 
 Concluído. ​​👨‍💻​
-
-<h3 id="autor">✒️ Autor</h3>
-
-<a href="https://github.com/brseghese"> <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/80193824?v=4" width="100px;" alt="Personal photo"/> </a>
-
-[Clique aqui](https://brseghese.github.io)🔗 e acesse meu portfólio! 💼 (em construção...) <br>
-Desenvolvido com ❤️ por **Bruno Seghese**
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoseghese/) [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brseghese) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brseghese@gmail.com)
