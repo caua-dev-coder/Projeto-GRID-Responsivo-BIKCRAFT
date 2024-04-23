@@ -4,6 +4,8 @@
 
 O projeto Bikcraft foi desenvolvido por completo, iniciado desde a prototipagem no Figma, a codificação do HTML, a estilização no CSS e as animações em JavaScript.
 
+<img src='./gif/nikcraft.gif'>
+
 ### 🎯 Menu
 
 <details>
@@ -15,7 +17,6 @@ O projeto Bikcraft foi desenvolvido por completo, iniciado desde a prototipagem 
 ◽ <a href="#tecnologias">Tecnologias</a> <br>
 ◽ <a href="#topicos">Tópicos</a> <br>
 ◽ <a href="#status">Status do Projeto</a> <br>
-◽ <a href="#autor">Autor</a> <br>
 </details>
 
 <h3 id="inicio">🚀 Início</h3>
